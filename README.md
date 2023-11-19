@@ -3,6 +3,6 @@
 
 Docker + Laravel projekta sagatave.  
 
-Uz laravel ietvara bāzēts grāmatu "veikals"
+Uz laravel ietvara bāzēts gleznu "veikals"
 
 
